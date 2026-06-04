@@ -1,6 +1,6 @@
 {
-  "name": "Студенческий помощник АВПК",
-  "short_name": "АВПК Помощник",
+  "name": "Помощник студента АВПК",
+  "short_name": "Помощник АВПК",
   "description": "Приложение для студентов АВПК: задачи, заметки, оценки, расписание",
   "start_url": "./index.html",
   "scope": "./",
@@ -9,7 +9,7 @@
   "background_color": "#ffffff",
   "theme_color": "#1F4E79",
   "lang": "ru",
-  "icons": [
+  "icons" : [
     {
       "src": "icons/home.png",
       "sizes": "192x192",
